@@ -402,5 +402,3 @@ No single layer is perfect, so you stack them.
 5. Which of the four meanings of "AI security" is our focus?
 
 ---
-
-I can export this as a Word or Markdown file for your teaching material. Ready for **Topic 2: AI Application Architecture** whenever you are. I'll go deep on each component (LLM, RAG, agents, tools, APIs) with the same diagram-first style.
